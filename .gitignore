@@ -2,3 +2,7 @@
 venv/
 dashboard.zip
 src/__pycache__/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
